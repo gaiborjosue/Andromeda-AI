@@ -1,0 +1,29 @@
+pyttsx3
+speech_recognition
+datetime
+wikipedia
+webbrowser
+os
+smtplib
+subprocess
+time
+Covid 
+speedtest
+googletrans #Translator
+pyshorteners
+cv2
+numpy
+pyautogui
+imdb
+phonenumbers
+phonenumbers  #geocoder
+phonenumbers  #carrier 
+numpy #as np 
+imageio
+scipy.ndimage
+cv2
+email.message #EmailMessage
+imghdr
+freebible #read_web
+selenium #webdriver
+pyowm
