@@ -319,7 +319,7 @@ def main(name):
             elif 'send email' in query.lower():
 
                 EMAIL_ADRESS = "gaiborjimenezjosue@gmail.com"
-                EMAIL_PASSWORD = "GOE2005@"
+                EMAIL_PASSWORD = ""
 
                 speak("Listo, cual es el titulo del email que quieres enviar?")
 
